@@ -28,7 +28,7 @@ This is based on the echo repositories with some rather minor adjustments for th
 
 ### dsm-comm-frontend
 
-Admin frontend for communication training DSM prototype @ DSI
+Admin __and Player__ frontend for communication training DSM prototype @ DSI. The trainees use the website in this version of Grüezi - there is no dependency to the VR app.
 
 ### dsm-comm-player
 
