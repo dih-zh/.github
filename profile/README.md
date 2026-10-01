@@ -2,7 +2,7 @@
 
 ## ai-agent-sandboxes
 
-Langflow and n8n Sandboxes für AI Agent Workshops. At the time of writing this is the only thing still running on our GCP.
+Langflow and n8n Sandboxes für AI Agent Workshops. __At the time of writing this is the only thing still running on our GCP.__
 
 ## Grüezi
 
